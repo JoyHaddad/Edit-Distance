@@ -8,7 +8,7 @@
  > * Run the script `min_distance.py`
  > * Enter the two words or strings for which you want to calculate the minimum edit distance when prompted.
  > 
- > # Example user input:
+ > ## Example user input:
  > * x = "clarks"
  > * y = "kirk"
  > * This will output all the operations and return the minimum edit distance (4)
