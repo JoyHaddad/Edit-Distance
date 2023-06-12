@@ -1,6 +1,6 @@
 #  Edit Distance
  
- > Author: Joy Haddad 
+ > Author: Joy Haddad \n
  > ID:862222610
 
 ## Instructions
