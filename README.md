@@ -5,7 +5,7 @@
 
 ## Instructions
  > * Make sure you have Python 3 installed.
- > * Run the script `min_distance.py` using the command:
+ > * Run the script `min_distance.py`
  > * Enter the two words or strings for which you want to calculate the minimum edit distance when prompted.
  > 
  > # Example user input:
