@@ -1,7 +1,7 @@
 #  Edit Distance
  
- > Author: \Joy Haddad 
- > ID:862222610\
+ > Author: Joy Haddad 
+ > ID:862222610
 
 ## Instructions
  > * Make sure you have Python 3 installed.
