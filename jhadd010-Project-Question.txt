@@ -1,0 +1,4 @@
+What would the minimum edit distance be if the inputs are x="clack" and y="click"?
+1
+5
+10
