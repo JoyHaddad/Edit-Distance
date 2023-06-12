@@ -1,4 +1,4 @@
-#  Edit Distance
+#  CS141 Edit Distance Project
  
  > Author: Joy Haddad <br>
  > ID:862222610
